@@ -1,23 +1,40 @@
-name: TomLuke
 favicon: null
-layout_spectrum: 0.44380183704197407
-typography_spectrum: 0.4083693919237703
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: TomLuke
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.6183028751984239
-  lightness: 0.9290472667198628
-  saturation: 0.05501354788430035
-  rhythmicContrast: 0.00081245182082057
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5
+  brandStrength: 0.8383458
+  lightness: 0.9290473
+  brandColors:
+    - '#BC9C7F'
+    - '#9A7754'
+    - '#0F0C0A'
+    - '#64301E'
+    - '#FCFFFF'
+  rhythmicContrast: 0.0008124518
+typography_spectrum: 0.4083693919237703
+layout_spectrum: 0.4438018370419741
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
