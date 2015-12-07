@@ -1,12 +1,12 @@
 ---
 description: Dan presenting
 author: []
-datePublished: '2015-12-07T12:43:46.072Z'
+datePublished: '2015-12-07T12:43:58.543Z'
 publisher:
   domain: ''
   name: ''
 title: 'Dan presenting '
-dateModified: '2015-12-07T12:43:12.991Z'
+dateModified: '2015-12-07T12:43:46.072Z'
 sourcePath: _posts/2015-12-07-dan-presenting.md
 published: true
 inFeed: true
